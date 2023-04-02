@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/poroto/static/css/main.104cb67c.css",
+    "main.js": "/poroto/static/js/main.44c81d9d.js",
+    "static/media/avatar.svg": "/poroto/static/media/avatar.6acdd0f348322ba06d8275de5dd8ee85.svg",
+    "static/media/site-bg.jpg": "/poroto/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/logo.svg": "/poroto/static/media/logo.1ed738f9eb92c6c36939bc033726e44c.svg",
+    "index.html": "/poroto/index.html",
+    "main.104cb67c.css.map": "/poroto/static/css/main.104cb67c.css.map",
+    "main.44c81d9d.js.map": "/poroto/static/js/main.44c81d9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.104cb67c.css",
+    "static/js/main.44c81d9d.js"
+  ]
+}
